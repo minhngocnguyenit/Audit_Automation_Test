@@ -1,0 +1,17 @@
+target/
+target/*
+
+.idea/*
+.idea/
+.idea/workspace.xml
+/.idea/
+/target/
+Automation script.iml
+cucumber.iml
+report/*
+download/*
+/target/
+/.idea/
+/log/
+/debug.log
+/.idea/
